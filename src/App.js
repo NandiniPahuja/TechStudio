@@ -12,7 +12,7 @@ import Home from "./component/home";
 import Second from "./component/Second";
 import DomainConatiner1 from "./component/DomainConatiner1";
 import EmpIndex from "./component/EmploymentDomain/EmpIndex";
-import Mod3Index from "./component/Module 3/Mod3index";
+import Mod3Index from "./component/Module 3/Mod3Index";
 import Module4 from "./component/module 4";
 export default function App() {
   console.log("app");
